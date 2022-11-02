@@ -11,7 +11,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
-            <div class="footer">
+            <div class="link-footer">
               <a id="github-link" href="https://github.com/pio2725/portfolio">Github Link</a>
           </div>
         </section>
